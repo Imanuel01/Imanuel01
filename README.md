@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 My name is Imanuel Heinrich 
 
-<!--
-**Imanuel01/Imanuel01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 20 years old developer and I am currently studying computing science at the University of Santa Cruz do Sul (UNISC).
 
-Here are some ideas to get you started:
+I also work in a pvc frame factory as a budgeter, but, I'm looking for a job or internship in my area. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 I'm based in Rio Grande do Sul, Brazil
+✉️ You can contact me at heinrich.imanuel1@gmail.com
+🧠 I'm learning C, Java, Phyton and other programming languages
+🏀 I love sports and my favorite is Basketball
+
+##Skills 
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"</img>
