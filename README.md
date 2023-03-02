@@ -9,6 +9,4 @@ I also work in a pvc frame factory as a budgeter, but, I'm looking for a job or 
 🧠 I'm learning C, Java, Phyton and other programming languages
 🏀 I love sports and my favorite is Basketball
 
-##Skills 
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"</img>
